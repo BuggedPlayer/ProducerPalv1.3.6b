@@ -1,0 +1,30 @@
+Limitations
+
+While Producer Pal is powerful, understanding its limitations will help you work more effectively and
+avoid frustration. 
+These limitations exist because certain Ableton Live features require direct
+interaction with the software's user interface or file system.
+
+Library and Browser Access (New!)
+Producer Pal can now browse and load content from Ableton's library through the ppal-read-browser
+and ppal-load-item tools. You can:
+- Browse library categories (instruments, audio effects, user library, etc.)
+- Search for presets, kits, and samples by name
+- Load devices, presets, audio and midi effects  directly into tracks
+This includes  instrument presets, effect presets,
+user libraries, and factory content.
+It still cant load audio samples into drum racks, cant load drum ableton drum kits into a midi channel.
+
+Cannot Record
+Recording audio or MIDI input is not supported. Producer Pal creates content programmatically by
+writing notes and configuring devices, but it cannot capture real-time performances from your
+instruments or MIDI controllers.
+
+Cannot Load External Plugins
+Third-party VST and AU plugins cannot be loaded by Producer Pal. Only native Ableton devices can
+be created. However, if you manually load a plugin, Producer Pal may be able to read and modify
+some of its parameters, depending on how the plugin exposes them to Ableton.
+
+Cannot Export
+Exporting and rendering functions are not available. You must export your final audio or video files
+manually through Ableton Live's export menu.
