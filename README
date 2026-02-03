@@ -1,0 +1,24 @@
+Quick Start for Claude installation
+1 - Download the max for live device folder and place it inside your ableton library and add it to a MIDI track in Ableton Live
+
+2 - Download the Claude Desktop Extension inside the claude-extension-repo
+
+3 - Install the Extension in Claude Desktop
+Go to Claude Desktop → Settings → Extensions and
+If you already have extensions installed, drag and drop Producer_Pal.mcpb into the Extensions screen  Or,
+if you have never installed a Claude Desktop extension before, you need to click "Advanced settings" on the Extensions screen,
+then click "Install extension...", and choose the Producer_Pal.mcpb file.
+
+4 - Complete the Installation
+Don't forget to click "Install" and complete the Claude Desktop installation
+
+5 - Verify Installation
+You should see Producer Pal tools in Claude's "Connectors" menu (make sure it's enabled when starting a conversation)
+
+6 - 6. Start Using Producer Pal
+Start a conversation with "connect to ableton"
+Allow Producer Pal tools to be used when Claude tries to use them
+
+
+
+
