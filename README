@@ -1,8 +1,9 @@
-Quick guide for ProcuderPal v 1.3.6 (beta) installation
+ProcuderPal https://github.com/adamjmurray/producer-pal by @adamjmurray with some modifications by me
 
+Installatiom:
 1 - Download the release extract it and place the max for live device folder inside your ableton library, then add it to a MIDI track in Ableton Live
 
-2 - Install the Extension in Claude Desktop
+2 - Install Claude, then install the extension inside the release folder in Claude Desktop
 Go to Claude Desktop → Settings → Extensions and
 If you already have extensions installed, drag and drop Producer_Pal.mcpb into the Extensions screen  Or,
 if you have never installed a Claude Desktop extension before, you need to click "Advanced settings" on the Extensions screen,
